@@ -1,19 +1,18 @@
 ### Hi there 👋
 
-<!--
-**D-curs-D/D-curs-D** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is __MAYANK GUPTA__, I am currently a final year undergraduate student at [Institute of Engineering and Technology, DAVV](https://ietdavv.edu.in/) pursuing Electronics and Telecommunication Engineering. I have always been interested in electronics and technology in general, which led me to explore a lot of things under it. I have experience with :
+  - Circuit design and analysis with several software such as _LTSPICE, ngspice, XSCHEM, Tina TI and Proteus_.
+  - Understanding of MOS Based circuit design and semiconductor theory invloved with it.
+  - Analog circuit design with experience in designing of Opamp, voltage reference, inverter, etc.
+  - Layout Design with _Magic VLSI_.
+  - PCB Design with _KiCAD, Eagle and Proteus_. 
+  - Digital circuit design with _Logisim, CEDAR_ and also via HDL Programming that is using _VHDL and Verilog in Xilinx ISE and Quartus Prime_.
+  - Microcontrollers such as _Atmega32, Atmega8, Atmega328, 8051, Arduino, ESP-IF, etc_.
+  - Programming in _Python, MATLAB and Scilab_.
 
-Here are some ideas to get you started:
+I am always exploring and trying to find new things that would keep me updated with the current trends. I aspire to become an __Analog Design Engineer__ and eventually an __AMS Design(or Verification) Engineer__, with focus on creating the best of design utilizing optimization of power and performance into the chips that drive our world. I am a keen and avid reader and with that I bring sheer dedication to learn, understand and utilize assets for best delivery needed.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+_This repository will act as a resume where I can show off my skills in form of projects that acts as a testament. And I full add more repositories in future to develop a great collections of things I am into._
 
 Currently working on :<br>
   - [ ] [Inverter Design and Analysis with SKY130PDK](https://github.com/D-curs-D/Inverter-design-and-analysis-using-sky130pdk)
