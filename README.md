@@ -12,13 +12,13 @@ My name is __MAYANK GUPTA__, I am currently a final year undergraduate student a
 
 I am always exploring and trying to find new things that would keep me updated with the current trends. I aspire to become an __Analog Design Engineer__ and eventually an __AMS Design(or Verification) Engineer__, with focus on creating the best of design utilizing optimization of power and performance into the chips that drive our world. I am a keen and avid reader and with that I bring sheer dedication to learn, understand and utilize assets for best delivery needed.
 
-_This repository will act as a resume where I can show off my skills in form of projects that acts as a testament. And I full add more repositories in future to develop a great collections of things I am into._
+_This repository will act as a resume where I can show off my skills in form of projects that acts as a testament. And I will add more repositories in future to develop a great collections of things that I am into._
 
 Currently working on :<br>
   - [ ] [Inverter Design and Analysis with SKY130PDK](https://github.com/D-curs-D/Inverter-design-and-analysis-using-sky130pdk)
   - [ ] Ring Oscillator Design with SKY130PDk(Going on)
   - [ ] Digital Logic: Circuit and Layout with sky130pdk(Literature Survey)
-  - [x] Voltage reference circuit with Cadence Virtuoso
+  - [x] <s>Voltage reference circuit with Cadence Virtuoso</s>
   - [ ] All DELIGHT WHEN EVERYTHING IS DONE :tada:
 
 Future Projects :<br>
