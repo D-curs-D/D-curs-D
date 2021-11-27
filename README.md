@@ -10,7 +10,7 @@ My name is __MAYANK GUPTA__, I am currently a final year undergraduate student a
   - Microcontrollers such as _Atmega32, Atmega8, Atmega328, 8051, Arduino, ESP-IF, etc_.
   - Programming in _Python, MATLAB and Scilab_.
 
-I am always exploring and trying to find new things that would keep me updated with the current trends. I aspire to become an __Analog Design Engineer__ and eventually an __AMS Design(or Verification) Engineer__, with focus on creating the best of design utilizing optimization of power and performance into the chips that drive our world. I am a keen and avid reader and with that I bring sheer dedication to learn, understand and utilize assets for best delivery needed.
+I am always exploring and trying to find new things that would keep me updated with the current trends. I aspire to become an __Analog Design Engineer__ and eventually an __AMS Design Engineer__, with focus on creating the best of design utilizing optimization of power and performance into the chips that drive our world. I am a keen and avid reader and with that I bring sheer dedication to learn, understand and utilize assets for best delivery needed.
 
 _This repository will act as a resume where I can show off my skills in form of projects that acts as a testament. And I will add more repositories in future to develop a great collections of things that I am into._
 
