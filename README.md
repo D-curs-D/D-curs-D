@@ -26,7 +26,4 @@ Future Projects :<br>
   - _Voltage reference circuit with sky130pdk_
   - _More to come...._
 
-
-For anything further, feel free to reach out! 🙂
-
-### Visitor Count: ![Visitor Count](https://profile-counter.glitch.me/D-curs-D/count.svg)
+<!-- For anything further, feel free to reach out! 🙂 -->
