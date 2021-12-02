@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 My name is [__MAYANK GUPTA__](https://www.linkedin.com/in/the-mayank-gupta/), I am currently a final year undergraduate student pursuing Electronics and Telecommunication Engineering at [Institute of Engineering and Technology, DAVV](https://ietdavv.edu.in/). I have always been interested in Electronics and technology in general, which led me to explore a lot of things under it. I have experience with:
-  - Circuit design and analysis with several software such as _LTSPICE, ngspice, XSCHEM, Tina TI and Proteus_.
+  - Circuit design and analysis with several software such as _Cadence Virtuoso, LTSPICE, ngspice, XSCHEM, Tina TI and Proteus_.
   - Understanding of MOS Based circuit design and semiconductor theory invloved with it.
   - Analog circuit design with experience in designing of Opamp, voltage reference, inverter, etc.
   - Layout Design with _Magic VLSI_.
