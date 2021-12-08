@@ -22,7 +22,7 @@ Currently working on :<br>
   - [ ] All DELIGHT WHEN EVERYTHING IS DONE :tada:
 
 Future Projects :<br>
-  - _Opamp design and analysis, Two and multiple stages in sky130 + ptm models(Lower nodes) + cadence virtuoso_
+  - _Opamp design and analysis, Two and multiple stages in sky130 or(/and) ptm models(Lower nodes)_
   - _Voltage reference circuit with sky130pdk_
   - _More to come...._
 
